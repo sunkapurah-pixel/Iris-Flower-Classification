@@ -56,8 +56,15 @@ The model achieved an accuracy of approximately 95% to 100% on the test dataset.
 ## Screenshots
 
 * Dataset Preview
+<img width="767" height="703" alt="image" src="https://github.com/user-attachments/assets/a4f76aa6-c56e-4017-9caa-8375bfcacc4b" />
+
 * Model Accuracy Output
+<img width="722" height="316" alt="image" src="https://github.com/user-attachments/assets/690eae8a-3310-4211-b854-673accae9ab7" />
+
+* 
 * Confusion Matrix
+* <img width="682" height="822" alt="image" src="https://github.com/user-attachments/assets/0bcb37df-2831-48e4-b517-7fe8779f55ba" />
+
 
 ## Future Improvements
 
