@@ -1,4 +1,4 @@
-# Iris Flower Classification
+# Iris Classification
 
 ## Overview
 
